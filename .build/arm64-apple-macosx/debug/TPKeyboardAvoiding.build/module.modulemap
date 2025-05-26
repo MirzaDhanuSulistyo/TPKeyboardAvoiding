@@ -1,0 +1,4 @@
+module TPKeyboardAvoiding {
+    umbrella "/Users/olsera/Work/SPM/TPKeyboardAvoiding/TPKeyboardAvoiding"
+    export *
+}
